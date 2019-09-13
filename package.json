@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-bv",
-  "version": "0.0.1",
+  "name": "@bartveneman/eslint-config-bv",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "files": [
