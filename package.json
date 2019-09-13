@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-bv",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "projectwallace"
+  ],
+  "author": "Bart Veneman",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint-config-xo": "^0.26.0"
+  },
+  "dependencies": {
+    "eslint-config-xo": "^0.26.0"
+  }
+}
